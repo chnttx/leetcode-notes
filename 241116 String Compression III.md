@@ -1,6 +1,6 @@
 https://leetcode.com/problems/string-compression-iii
 
-### Two-pass approach
+### Two-pass #stack approach
 
 - **Main idea:** Group each consecutive letter group into `character: frequency` groups, then flatten each group into `{count}{character}` 
 

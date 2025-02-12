@@ -22,9 +22,6 @@ A pair `(i, j)` is **fair** if:
 #### Notes
 
 - sorting + binary search
-- i.e. 0 1 4 4 5 7
-	- 
-
 ### Naive approach
 
 - **Main idea:** loop through every pair
@@ -33,7 +30,7 @@ A pair `(i, j)` is **fair** if:
 
 ### More efficient approach
 
-- **Main idea:** sorting + binary search
+- **Main idea:** #sorting  #binary-search
 - **Algorithm: (THIS DOESN'T WORK WHEN `lower == upper`)**
 	1. Sort array
 	2. For each number in array:

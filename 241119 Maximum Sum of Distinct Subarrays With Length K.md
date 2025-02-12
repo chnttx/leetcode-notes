@@ -2,6 +2,7 @@ https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
 
 ### `Counter` approach
 
+- #sliding-window 
 - **Notes**
 	- Keep track of number of distinct elements in window instead of calling `len(current_window)` every time. This brings down time complexity from $O(k*n)$ to $O(n)$
 

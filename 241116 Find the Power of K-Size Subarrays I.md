@@ -30,7 +30,7 @@ class Solution:
 
 ### Optimized approach
 
-- sliding window, keeping track of current number and last element of previous k-window, except edge case when k is 1
+- #sliding-window , keeping track of current number and last element of previous k-window, except edge case when k is 1
 
 ```python
 class Solution:

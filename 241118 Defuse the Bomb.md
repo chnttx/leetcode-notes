@@ -40,4 +40,4 @@ class Solution:
 
 ### Optimized approach
 
-- **Basic idea:** sliding window
+- **Basic idea:** #sliding-window 
